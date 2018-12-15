@@ -12,14 +12,14 @@ The complete detail with the code can found on my other repository [here](https:
 
 The data initially contains a list of locations (with cities, countries and ids) along with the top 5 trends for each location.
 
-   []!(images/dataframe.jpg)
+   []!(images/dataframe.JPG)
 
 The country and the trends columns are then separated for further analysis. Since, there could be more than one locations in a
 country so the trends of a single country are converted into one list so that we have a country, trends row. For analysis, 
 the common trends in a single country are separated and their frequency is recorded. All this process can be seen in this
 snippet:
 
-   []!(images/freq_data.jpg)
+   []!(images/freq_data.JPG)
 
 where 
 
@@ -33,7 +33,7 @@ left out have lower twitter usage than the countries included for analysis.
 
 Finally the frequencies, trends and countries are converted into lists and then plotted in the form of a bar char as below: 
 
-   []!(images/top_country_trends.jpg)
+   []!(images/top_country_trends.JPG)
 
 As can be seen in the chart, United states has the top frequency as twitter usage is the most in US (hence more locations). Also 
 we can see in most locations in US the top trend is `#RockHall2019` on 12 dec,2018. We can also see the most frequent trends in
