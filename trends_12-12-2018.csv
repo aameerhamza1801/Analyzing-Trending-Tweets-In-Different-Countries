@@ -1,0 +1,405 @@
+,Country,Country_code,Country_woeid,City,City_woeid,trend_1,trend_2,trend_3,trend_4,trend_5
+0,Canada,CA,23424775,Winnipeg,2972,Québécoise,ThursdayThoughts,PoweringPastCoal,Fred Pellerin,Charlemagne
+1,Canada,CA,23424775,Ottawa,3369,icarusfallsparty,Centre Block,WeTheNorth,House of Commons,climatechange
+2,Canada,CA,23424775,Quebec,3444,Québécoise,ThursdayThoughts,PoweringPastCoal,Fred Pellerin,Charlemagne
+3,Canada,CA,23424775,Montreal,3534,Québécoise,ThursdayThoughts,PoweringPastCoal,Fred Pellerin,Charlemagne
+4,Canada,CA,23424775,Toronto,4118,FoxKatZ1035,Sarnia,Brampton,Warriors,2018In5Words
+5,Canada,CA,23424775,Edmonton,8676,stalbert,albertans,abed,abroads,mcdavid
+6,Canada,CA,23424775,Calgary,8775,Québécoise,ThursdayThoughts,PoweringPastCoal,Fred Pellerin,Charlemagne
+7,Canada,CA,23424775,Vancouver,9807,Riverdale,Santa,AMillionLittleThings,Meng Wanzhou,china
+8,United Kingdom,GB,23424975,Birmingham,12723,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+9,United Kingdom,GB,23424975,Blackpool,12903,Christmas,ThursdayThoughts,Martin Glenn,FMQs,FolkloreThursday
+10,United Kingdom,GB,23424975,Bournemouth,13383,Tory,Brexit,Christmas,plasticpollution,ThursdayThoughts
+11,United Kingdom,GB,23424975,Brighton,13911,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+12,United Kingdom,GB,23424975,Bristol,13963,djokovic,TheresaMay,Tory,Labour,ThursdayThoughts
+13,United Kingdom,GB,23424975,Cardiff,15127,Theresa May,First Minister,Brexit,London,Wales
+14,United Kingdom,GB,23424975,Coventry,17044,Brexit,London,Christmas,eventprofs,ThursdayThoughts
+15,United Kingdom,GB,23424975,Derby,18114,Brexit,HTFP,ThursdayThoughts,Martin Glenn,FMQs
+16,United Kingdom,GB,23424975,Edinburgh,19344,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+17,United Kingdom,GB,23424975,Glasgow,21125,Theresa May,Tories,ScotBudget,Leigh Griffiths,Dungavel
+18,United Kingdom,GB,23424975,Hull,25211,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+19,United Kingdom,GB,23424975,Leeds,26042,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+20,United Kingdom,GB,23424975,Leicester,26062,Brexit,Theresa May,lcfc,wreckitralph,ThursdayThoughts
+21,United Kingdom,GB,23424975,Liverpool,26734,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+22,United Kingdom,GB,23424975,Manchester,28218,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+23,United Kingdom,GB,23424975,Middlesbrough,28869,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+24,United Kingdom,GB,23424975,Newcastle,30079,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+25,United Kingdom,GB,23424975,Nottingham,30720,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+26,United Kingdom,GB,23424975,Plymouth,32185,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+27,United Kingdom,GB,23424975,Portsmouth,32452,Christmas,FIFA19,ThursdayThoughts,Martin Glenn,FMQs
+28,United Kingdom,GB,23424975,Preston,32566,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+29,United Kingdom,GB,23424975,Sheffield,34503,sheffieldissuper,Theresa May,Tory,Prime Minister,THFC
+30,United Kingdom,GB,23424975,Stoke-on-Trent,36240,Brexit,Theresa May,ThursdayThoughts,Martin Glenn,FMQs
+31,United Kingdom,GB,23424975,Swansea,36758,OurBloodIsBlack,ThursdayThoughts,Martin Glenn,FMQs,FolkloreThursday
+32,United Kingdom,GB,23424975,London,44418,ThursdayThoughts,Martin Glenn,FMQs,Ian Naude,FolkloreThursday
+33,United Kingdom,GB,23424975,Belfast,44544,Theresa May,Europe,Tory,Labour,Maldives
+34,Dominican Republic,DO,23424800,Santo Domingo,76456,FelizJueves,HOY 13,Antonio Marte,Round Robin,Estrellas
+35,Guatemala,GT,23424834,Guatemala City,83123,EUPorSiNoLoVio,virgen de guadalupe,ChampionsLeague,Thelma Aldana,chayanne
+36,Mexico,MX,23424900,Acapulco,110978,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+37,Mexico,MX,23424900,Aguascalientes,111579,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+38,Mexico,MX,23424900,Chihuahua,115958,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+39,Mexico,MX,23424900,Mexico City,116545,Guadalupe,CDMX,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel
+40,Mexico,MX,23424900,Ciudad Juarez,116556,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+41,Mexico,MX,23424900,Nezahualcóyotl,116564,FelizJueves,ItsTheLoveShot,JuevesdeRockconMiguel,HappyBirthdayTaylorSwift,T-MEC
+42,Mexico,MX,23424900,Culiacán,117994,virgendeguadalupe,WhatsApp,LAS ASOMBROSAS,Morena,Roma
+43,Mexico,MX,23424900,Ecatepec de Morelos,118466,Xalapa,FelizJueves,ItsTheLoveShot,JuevesdeRockconMiguel,HappyBirthdayTaylorSwift
+44,Mexico,MX,23424900,Guadalajara,124162,Poder Judicial,Angélica Rivera,Guadalupe,NAIM,El Chapo
+45,Mexico,MX,23424900,Hermosillo,124785,FelizJueves,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula,HappyBirthdayTaylorSwift
+46,Mexico,MX,23424900,León,131068,irapuato,Guadalupe,LaFiera,Navidad,Morena
+47,Mexico,MX,23424900,Mérida,133327,FelizJueves,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula,HappyBirthdayTaylorSwift
+48,Mexico,MX,23424900,Mexicali,133475,4ºAniversarioApostólico,Culiacán,Oaxaca,mexicali,FelizJueves
+49,Mexico,MX,23424900,Monterrey,134047,FelizJueves,virgendeguadalupe,bailadísimogranfinal,Luis Miguel,LordMinistro
+50,Mexico,MX,23424900,Morelia,134091,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+51,Mexico,MX,23424900,Naucalpan de Juárez,134395,FelizJueves,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula,HappyBirthdayTaylorSwift
+52,Mexico,MX,23424900,Puebla,137612,FelizJueves,virgendeguadalupe,FelizMiércoles,LordMinistro,Paseo Bravo
+53,Mexico,MX,23424900,Querétaro,138045,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+54,Mexico,MX,23424900,Saltillo,141272,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+55,Mexico,MX,23424900,San Luis Potosí,144265,virgendeguadalupe,inviernoslp,Expo Moroleón,Eventos,soledad
+56,Mexico,MX,23424900,Tijuana,149361,FelizJueves,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula,HappyBirthdayTaylorSwift
+57,Mexico,MX,23424900,Toluca,149769,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+58,Mexico,MX,23424900,Zapopan,151582,FelizJueves,EnDiciembreEsNormal,JuevesdeRockconMiguel,ItsTheLoveShot,HoyNoCircula
+59,Argentina,AR,23424747,Mendoza,332471,MiraComoNosPonemos,BuenJueves,Gianfranco Macri,Puente Pueyrredón,FelizCumpleCalo
+60,Chile,CL,23424782,Santiago,349859,ContraVientoYMarea,PASAPALABRACHV,BenjaYTriniEnAlerta,Bienvenidos13,Puerto Montt
+61,Chile,CL,23424782,Concepcion,349860,FelizJueves,Bienvenidos13,estereotipoff,Frei,Deportes Vallenar
+62,Chile,CL,23424782,Valparaiso,349861,FelizJueves,Bienvenidos13,estereotipoff,Frei,Deportes Vallenar
+63,Colombia,CO,23424787,Bogotá,368148,FelizJueves,Patio Bonito,Turquía,BendecidoyAfortunado,MissUniverse
+64,Colombia,CO,23424787,Cali,368149,FelizJueves,Patio Bonito,Turquía,BendecidoyAfortunado,MissUniverse
+65,Colombia,CO,23424787,Medellín,368150,FelizJueves,Patio Bonito,Turquía,BendecidoyAfortunado,MissUniverse
+66,Colombia,CO,23424787,Barranquilla,368151,Junior,FelizJueves,Patio Bonito,Turquía,BendecidoyAfortunado
+67,Ecuador,EC,23424801,Quito,375732,FelizJueves,Marcelo Valencia,VamosPorLa11,GiraOficialEcu,Dreer
+68,Ecuador,EC,23424801,Guayaquil,375733,FelizJueves,Marcelo Valencia,Dreer,VamosPorLa11,Anderson Julio
+69,Venezuela,VE,23424982,Caracas,395269,13Dic,Argimiro Gabaldón,NavidadSinGuiso,Pablo Iglesias,Sthefany
+70,Venezuela,VE,23424982,Maracaibo,395270,FelizJueves,icarusfallsparty,EEUU,metroametrojuntoalpueblo,Contamos Contigo
+71,Venezuela,VE,23424982,Maracay,395271,13Dic,Sucesos,Sudeban,Tigres,Doble-A
+72,Venezuela,VE,23424982,Valencia,395272,13Dic,Estrasburgo,Caciques Pemones,Estados Unidos,PDVSA
+73,Venezuela,VE,23424982,Barcelona,395273,Open MIC,Venezuela,Argimiro Gabaldón,NavidadSinGuiso,Pablo Iglesias
+74,Venezuela,VE,23424982,Ciudad Guayana,395275,13Dic,Argimiro Gabaldón,NavidadSinGuiso,Pablo Iglesias,Sthefany
+75,Venezuela,VE,23424982,Turmero,395277,Panamericana,AlMomento,13Dic,Argimiro Gabaldón,Pablo Iglesias
+76,Peru,PE,23424919,Lima,418440,LoMaloDeLaNavidadEs,Israel,Villa María del Triunfo,Cristal,MensajeALaNación
+77,Brazil,BR,23424768,Brasília,455819,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+78,Brazil,BR,23424768,Belém,455820,ItsTheLoveShot,FestejaBrasil,HappyBirthdayTaylorSwift,Aquaman,Real Madrid
+79,Brazil,BR,23424768,Belo Horizonte,455821,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+80,Brazil,BR,23424768,Curitiba,455822,ItsTheLoveShot,Aquaman,América,Athletico,Junior
+81,Brazil,BR,23424768,Porto Alegre,455823,AI-5,Vitória,Ramiro,Junior,Atlético
+82,Brazil,BR,23424768,Recife,455824,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+83,Brazil,BR,23424768,Rio de Janeiro,455825,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+84,Brazil,BR,23424768,Salvador,455826,IcarusFallsParty,FestaFinalAFazenda,HappyBirthdayTaylorSwift,FestejaBrasil,Câmara
+85,Brazil,BR,23424768,São Paulo,455827,Natal,Encontro,AI-5,ItsTheLoveShot,Sampaoli
+86,Brazil,BR,23424768,Campinas,455828,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+87,Brazil,BR,23424768,Fortaleza,455830,AI-5,HappyBirthdayTaylorSwift,IcarusFallsParty,FestaFinalAFazenda,Atlético
+88,Brazil,BR,23424768,Goiânia,455831,IcarusFallsParty,FestaFinalAFazenda,Tirei Pessoa,FestejaBrasil,João de Deus
+89,Brazil,BR,23424768,Manaus,455833,Encontro,AI-5,ItsTheLoveShot,Sampaoli,HappyBirthdayTaylorSwift
+90,Brazil,BR,23424768,São Luís,455834,Aquaman,Mayra Cardi,Tirei Pessoa,AFazenda10,UFMA
+91,Brazil,BR,23424768,Guarulhos,455867,AFazenda10,Encontro,AI-5,ItsTheLoveShot,Sampaoli
+92,Argentina,AR,23424747,Córdoba,466861,BuenJueves,MiraComoNosPonemos,Darthes,Gianfranco Macri,FelizCumpleCalo
+93,Argentina,AR,23424747,Rosario,466862,MiraComoNosPonemos,BuenJueves,Gianfranco Macri,FelizCumpleCalo,Puente Pueyrredón
+94,Venezuela,VE,23424982,Barquisimeto,468382,13Dic,El Nacional,Argimiro Gabaldón,Pablo Iglesias,NavidadSinGuiso
+95,Venezuela,VE,23424982,Maturín,468384,13Dic,El Nacional,Argimiro Gabaldón,Pablo Iglesias,NavidadSinGuiso
+96,Argentina,AR,23424747,Buenos Aires,468739,MiraComoNosPonemos,Darthes,Thelma,Navarro2019,BuenJueves
+97,Poland,PL,23424923,Gdańsk,493417,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+98,Poland,PL,23424923,Kraków,502075,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+99,Poland,PL,23424923,Lodz,505120,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+100,Poland,PL,23424923,Poznań,514048,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+101,Poland,PL,23424923,Warsaw,523920,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+102,Poland,PL,23424923,Wroclaw,526363,13grudnia,Trzaskowskiego,ItsTheLoveShot,Czaputowicz,energetyka
+103,Austria,AT,23424750,Vienna,551801,OeNR,SCRRFC,schwarzblau,strasbourg,sozialversicherung
+104,Ireland,IE,23424803,Cork,560472,Brexit,Christmas,Theresa May,scicom18,RTEinvestigates
+105,Ireland,IE,23424803,Dublin,560743,Theresa May,Brexit,scicom18,RTEinvestigates,Champions League
+106,Ireland,IE,23424803,Galway,560912,Ireland,Theresa May,Brexit,scicom18,RTEinvestigates
+107,France,FR,23424819,Bordeaux,580778,JeudiPhoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+108,France,FR,23424819,Lille,608105,JeudiPhoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+109,France,FR,23424819,Lyon,609125,ShakhtarOL,Strasbourg,lamatinalercf,10% OFF,JeudiPhoto
+110,France,FR,23424819,Marseille,610264,JeudiPhoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+111,France,FR,23424819,Montpellier,612977,Strasbourg,Toulouse,Beziers,Carcassonne,JeudiPhoto
+112,France,FR,23424819,Nantes,613858,Strasbourg,SalonnautiquedeParis,JeudiPhoto,HUBDAY,Noah Klieger
+113,France,FR,23424819,Paris,615702,Noah Klieger,HUBDAY,Blanquefort,Cherif Chekatt,GKAwards2018
+114,France,FR,23424819,Rennes,619163,jeudiphoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+115,France,FR,23424819,Strasbourg,627791,jeudiphoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+116,France,FR,23424819,Toulouse,628886,jeudiphoto,HUBDAY,Noah Klieger,GKAwards2018,Ford
+117,Germany,DE,23424829,Berlin,638242,TSVG,2018In5Words,wegmit219a,Straßburg,Brexit
+118,Germany,DE,23424829,Bremen,641142,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+119,Germany,DE,23424829,Dortmund,645458,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+120,Germany,DE,23424829,Dresden,645686,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+121,Germany,DE,23424829,Dusseldorf,646099,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+122,Germany,DE,23424829,Essen,648820,travelling,Cape Town,2018In5Words,Airbnb,IBES
+123,Germany,DE,23424829,Frankfurt,650272,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+124,Germany,DE,23424829,Hamburg,656958,Brexit,China,hhbue,COP24,Weihnachten
+125,Germany,DE,23424829,Cologne,667931,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+126,Germany,DE,23424829,Leipzig,671072,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+127,Germany,DE,23424829,Munich,676757,AJAFCB,Matchday,Bayern,Weihnachten,Brexit
+128,Germany,DE,23424829,Stuttgart,698064,2018In5Words,Airbnb,IBES,wegmit219a,Aschaffenburg
+129,Italy,IT,23424853,Bologna,711080,Marotta,13dicembre,Anastasio,Quadarella,Taylor Swift
+130,Italy,IT,23424853,Genoa,716085,Strasburgo,Salvini,lamialiguria,Genova,Marotta
+131,Italy,IT,23424853,Milan,718345,Marotta,13dicembre,YBJuve,Strasburgo,deficit
+132,Italy,IT,23424853,Naples,719258,Marotta,13dicembre,Anastasio,Quadarella,Taylor Swift
+133,Italy,IT,23424853,Palermo,719846,Marotta,13dicembre,Anastasio,Quadarella,Taylor Swift
+134,Italy,IT,23424853,Rome,721943,Marotta,13dicembre,Anastasio,Quadarella,Taylor Swift
+135,Italy,IT,23424853,Turin,725003,13dicembre,YBJuve,manovra,Brexit,2018MAMA
+136,Netherlands,NL,23424909,Den Haag,726874,Robben,reduan b.,Stint,Nabil B.,ajabay
+137,Netherlands,NL,23424909,Amsterdam,727232,Stint,ajabay,Nabil B.,Straatsburg,Jos B.
+138,Netherlands,NL,23424909,Rotterdam,733075,reduan b.,Robben,Nabil B.,ajabay,poenie
+139,Netherlands,NL,23424909,Utrecht,734047,Robben,reduan b.,Stint,Nabil B.,ajabay
+140,Spain,ES,23424950,Barcelona,753692,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,CuentasPodemosARV
+141,Spain,ES,23424950,Bilbao,754542,OT18Gala12,eitbmaratoia,Gobierno Vasco,Euskadi,Athletic
+142,Spain,ES,23424950,Las Palmas,764814,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,CuentasPodemosARV
+143,Spain,ES,23424950,Madrid,766273,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,ElSecretoNoSeToca
+144,Spain,ES,23424950,Malaga,766356,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,ElSecretoNoSeToca
+145,Spain,ES,23424950,Murcia,768026,OT18Gala12,FelizJueves,Lorca,Natalia,Estrasburgo
+146,Spain,ES,23424950,Palma,769293,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,ElSecretoNoSeToca
+147,Spain,ES,23424950,Seville,774508,OTDirecto13DIC,FelizJueves,unidosporelSEVILLAFC,San Pablo,Santa Cruz
+148,Spain,ES,23424950,Valencia,776688,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,ElSecretoNoSeToca
+149,Spain,ES,23424950,Zaragoza,779063,OTDirecto13DIC,FelizJueves,SomosLaAudiencia13D,CatalunyaARV,ElSecretoNoSeToca
+150,Switzerland,CH,23424957,Geneva,782538,humanrights,africaecommerceweek,Yemen,Strasbourg,Rupperswil
+151,Switzerland,CH,23424957,Lausanne,783058,FINAHangzhou2018,Rupperswil,humanrights,YBJuve,bscyb
+152,Switzerland,CH,23424957,Zurich,784794,Rupperswil,humanrights,YBJuve,bscyb,Strassburg
+153,Belarus,BY,23424765,Brest,824382,Dota2,Москве,Республики Беларусь,Брестской,В Минске
+154,Belarus,BY,23424765,Grodno,825848,Dota2,Москве,Республики Беларусь,Брестской,В Минске
+155,Belarus,BY,23424765,Gomel,825978,Dota2,Москве,Республики Беларусь,Брестской,В Минске
+156,Belarus,BY,23424765,Minsk,834463,Dota2,Москве,Республики Беларусь,Брестской,В Минске
+157,Latvia,LV,23424874,Riga,854823,KNAB,ЛигаЕвропы,dienasbizness,Strasbūras,teirdarbs
+158,Norway,NO,23424910,Bergen,857105,Petter Northug,Tyskland,champions league,COP24,Brexit
+159,Norway,NO,23424910,Oslo,862592,Northug,COP24,Stortinget,Liverpool,Norwegian
+160,Sweden,SE,23424954,Gothenburg,890869,ifkgbg,JUST NU,Lucia,Pär Holmgren,08pol
+161,Sweden,SE,23424954,Stockholm,906057,lucia,08pol,Alice Bah Kuhnke,Theresa May,mh18
+162,Ukraine,UA,23424976,Dnipropetrovsk,918981,ШахтерЛион,лиги,Киеве,новини,NordStream2
+163,Ukraine,UA,23424976,Donetsk,919163,ШахтерЛион,лиги,Киеве,новини,NordStream2
+164,Ukraine,UA,23424976,Kharkiv,922137,ШахтерЛион,лиги,Киеве,новини,NordStream2
+165,Ukraine,UA,23424976,Kyiv,924938,ШахтерЛион,лиги,Киеве,новини,NordStream2
+166,Ukraine,UA,23424976,Lviv,924943,ШахтерЛион,лиги,Киеве,новини,NordStream2
+167,Ukraine,UA,23424976,Odesa,929398,ШахтерЛион,лиги,Киеве,новини,NordStream2
+168,Ukraine,UA,23424976,Zaporozhye,939628,ШахтерЛион,лиги,Киеве,новини,NordStream2
+169,Greece,GR,23424833,Athens,946738,Στρασβουργο,Ζακυνθο,Ομονοια,TheVoicegr,BENAEK
+170,Greece,GR,23424833,Thessaloniki,963291,shoppingstar,Στρασβουργο,Ζακυνθο,Ομονοια,TheVoicegr
+171,Indonesia,ID,23424846,Bekasi,1030077,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+172,Indonesia,ID,23424846,Depok,1032539,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+173,Indonesia,ID,23424846,Pekanbaru,1040779,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+174,Indonesia,ID,23424846,Surabaya,1044316,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+175,Indonesia,ID,23424846,Makassar,1046138,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+176,Indonesia,ID,23424846,Bandung,1047180,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+177,Indonesia,ID,23424846,Jakarta,1047378,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+178,Indonesia,ID,23424846,Medan,1047908,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+179,Indonesia,ID,23424846,Palembang,1048059,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+180,Indonesia,ID,23424846,Semarang,1048324,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+181,Indonesia,ID,23424846,Tangerang,1048536,SpiritofMillennialsGamesDay,MenparGatheringBeijing,PesonaWisataBICC,IndonesiaMenujuCahaya,ItsTheLoveShot
+182,Singapore,SG,23424948,Singapore,1062617,ItsTheLoveShot,TheresaMay,NationalMemorialDay,IM2018,kltu
+183,Australia,AU,23424748,Perth,1098081,SYDvADL,ICARUSFALLS,BumblebeeMovie,2018In5Words,sydneystorm
+184,Australia,AU,23424748,Adelaide,1099805,SYDvADL,FIVEaaNews,SmallzysSurgery,south australia,Adelaide
+185,Australia,AU,23424748,Brisbane,1100661,SYDvADL,ICARUSFALLS,BumblebeeMovie,2018In5Words,sydneystorm
+186,Australia,AU,23424748,Canberra,1100968,ASPAs,Canberra,Scott Morrison,Media Release,greens
+187,Australia,AU,23424748,Darwin,1101597,SYDvADL,ICARUSFALLS,BumblebeeMovie,2018In5Words,sydneystorm
+188,Australia,AU,23424748,Melbourne,1103816,SYDvADL,ICARUSFALLS,BumblebeeMovie,2018In5Words,sydneystorm
+189,Australia,AU,23424748,Sydney,1105779,SYDvADL,ICARUSFALLS,BumblebeeMovie,2018In5Words,sydneystorm
+190,Japan,JP,23424856,Kitakyushu,1110809,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+191,Japan,JP,23424856,Saitama,1116753,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+192,Japan,JP,23424856,Chiba,1117034,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+193,Japan,JP,23424856,Fukuoka,1117099,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+194,Japan,JP,23424856,Hamamatsu,1117155,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+195,Japan,JP,23424856,Hiroshima,1117227,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+196,Japan,JP,23424856,Kawasaki,1117502,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+197,Japan,JP,23424856,Kobe,1117545,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+198,Japan,JP,23424856,Kumamoto,1117605,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+199,Japan,JP,23424856,Nagoya,1117817,チケット,King,キンプリ,Prince IsLAND,自分のPixivブクマTOP3をあげる
+200,Japan,JP,23424856,Niigata,1117881,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+201,Japan,JP,23424856,Sagamihara,1118072,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+202,Japan,JP,23424856,Sapporo,1118108,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+203,Japan,JP,23424856,Sendai,1118129,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+204,Japan,JP,23424856,Takamatsu,1118285,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+205,Japan,JP,23424856,Tokyo,1118370,バンド,ブログ,誕生日,忘年会,ホント
+206,Japan,JP,23424856,Yokohama,1118550,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+207,Korea,KR,23424868,Goyang,1130853,이치로,제노스,뱀아더,빛의 성우,사마토키
+208,Korea,KR,23424868,Yongin,1132094,이치로,제노스,뱀아더,빛의 성우,사마토키
+209,Korea,KR,23424868,Ansan,1132444,이치로,제노스,뱀아더,빛의 성우,사마토키
+210,Korea,KR,23424868,Bucheon,1132445,이치로,제노스,뱀아더,빛의 성우,사마토키
+211,Korea,KR,23424868,Busan,1132447,이치로,제노스,뱀아더,빛의 성우,사마토키
+212,Korea,KR,23424868,Changwon,1132449,이치로,제노스,뱀아더,빛의 성우,사마토키
+213,Korea,KR,23424868,Daegu,1132466,이치로,제노스,뱀아더,빛의 성우,사마토키
+214,Korea,KR,23424868,Gwangju,1132481,이치로,제노스,뱀아더,빛의 성우,사마토키
+215,Korea,KR,23424868,Incheon,1132496,이치로,제노스,뱀아더,빛의 성우,사마토키
+216,Korea,KR,23424868,Seongnam,1132559,이치로,제노스,뱀아더,빛의 성우,사마토키
+217,Korea,KR,23424868,Suwon,1132567,이치로,제노스,뱀아더,빛의 성우,사마토키
+218,Korea,KR,23424868,Ulsan,1132578,이치로,제노스,뱀아더,빛의 성우,사마토키
+219,Korea,KR,23424868,Seoul,1132599,친구들,네이버,이치로,제노스,뱀아더
+220,Malaysia,MY,23424901,Kajang,1141268,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+221,Malaysia,MY,23424901,Ipoh,1154679,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+222,Malaysia,MY,23424901,Johor Bahru,1154698,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+223,Malaysia,MY,23424901,Klang,1154726,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+224,Malaysia,MY,23424901,Kuala Lumpur,1154781,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+225,Philippines,PH,23424934,Calocan,1167715,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+226,Philippines,PH,23424934,Makati,1180689,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+227,Philippines,PH,23424934,Pasig,1187115,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+228,Philippines,PH,23424934,Taguig,1195098,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+229,Philippines,PH,23424934,Antipolo,1198785,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+230,Philippines,PH,23424934,Cagayan de Oro,1199002,MissUniverse2018,PBB8BalikCamp,ItsTheLoveShot,WelcomeTaeyeonToPH,BintangNaHalik
+231,Philippines,PH,23424934,Cebu City,1199079,MissUniverse2018,PBB8BalikCamp,ItsTheLoveShot,WelcomeTaeyeonToPH,BintangNaHalik
+232,Philippines,PH,23424934,Davao City,1199136,MissUniverse2018,PBB8BalikCamp,ItsTheLoveShot,WelcomeTaeyeonToPH,BintangNaHalik
+233,Philippines,PH,23424934,Manila,1199477,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,WelcomeTaeyeonToPH
+234,Philippines,PH,23424934,Quezon City,1199682,MissUniverse2018,PBB8BalikCamp,NAKSampal,ItsTheLoveShot,MAMAVOTE
+235,Philippines,PH,23424934,Zamboanga City,1199980,MissUniverse2018,PBB8BalikCamp,ItsTheLoveShot,WelcomeTaeyeonToPH,BintangNaHalik
+236,Thailand,TH,23424960,Bangkok,1225448,MissUniverse,ItsTheLoveShot,MAMAVOTE,Aquaman,got7
+237,Vietnam,VN,23424984,Hanoi,1236594,diendanxaydung,ThursdayThoughts,repTourNetflix,ThursdayMotivation,RockHall2019
+238,Vietnam,VN,23424984,Hai Phong,1236690,diendanxaydung,ThursdayThoughts,repTourNetflix,RockHall2019,ThursdayMotivation
+239,Vietnam,VN,23424984,Can Tho,1252351,diendanxaydung,ThursdayThoughts,repTourNetflix,RockHall2019,ThursdayMotivation
+240,Vietnam,VN,23424984,Da Nang,1252376,diendanxaydung,ThursdayThoughts,repTourNetflix,RockHall2019,ThursdayMotivation
+241,Vietnam,VN,23424984,Ho Chi Minh City,1252431,diendanxaydung,ThursdayThoughts,repTourNetflix,ThursdayMotivation,RockHall2019
+242,Algeria,DZ,23424740,Algiers,1253079,Tunisie,Maroc,Alger,TeamDZ,football
+243,Ghana,GH,23424824,Accra,1326075,JoySMS,D2R2018,Real Madrid,Ghanaian Times,3NewsGH
+244,Ghana,GH,23424824,Kumasi,1330595,JoySMS,D2R2018,Real Madrid,Ghanaian Times,3NewsGH
+245,Nigeria,NG,23424908,Benin City,1387660,TwoWeeksInLagos,MegaSeraph,visawandecoal,HospitalSurprises,throwback
+246,Nigeria,NG,23424908,Ibadan,1393672,morningrunsib,WorkChopIB,TwoWeeksInLagos,MegaSeraph,visawandecoal
+247,Nigeria,NG,23424908,Kaduna,1396439,TwoWeeksInLagos,MegaSeraph,visawandecoal,HospitalSurprises,throwback
+248,Nigeria,NG,23424908,Kano,1396803,TwoWeeksInLagos,MegaSeraph,visawandecoal,HospitalSurprises,throwback
+249,Nigeria,NG,23424908,Lagos,1398823,TwoWeeksInLagos,MegaSeraph,visawandecoal,HospitalSurprises,throwback
+250,Nigeria,NG,23424908,Port Harcourt,1404447,TwoWeeksInLagos,MegaSeraph,visawandecoal,HospitalSurprises,throwback
+251,Egypt,EG,23424802,Giza,1521643,امم_افريقيا,العاصمه_الاداريه,الخميس_الونيس,رام_الله,ابراهيم_سعده
+252,Egypt,EG,23424802,Cairo,1521894,امم_افريقيا,العاصمه_الاداريه,الخميس_الونيس,رام_الله,ابراهيم_سعده
+253,Egypt,EG,23424802,Alexandria,1522006,تبرع_لجمعيه_بر_برحرح,امم_افريقيا,العاصمه_الاداريه,الخميس_الونيس,رام_الله
+254,Kenya,KE,23424863,Mombasa,1528335,Grand Manor,President Uhuru Kenyatta,SakaChapaaNakuru,billynatricky,AdelleAndShaffieOnkISS
+255,Kenya,KE,23424863,Nairobi,1528488,UhuruInKisumu,SDG3,Somalia,JamhuriDay,kenyaat55
+256,South Africa,ZA,23424942,Durban,1580913,hammarsdale,ECRBreakfast,KZNTraffic,Durban,Christmas
+257,South Africa,ZA,23424942,Johannesburg,1582504,HlaudiMotsoeneng,President,Jacob Zuma,TakePleasureSeriously,RoastOfAKA
+258,South Africa,ZA,23424942,Port Elizabeth,1586614,NDGPopUp,HlaudiMotsoeneng,ZumaFees,President,Hawks
+259,South Africa,ZA,23424942,Pretoria,1586638,StatsSA,NDGPopUp,HlaudiMotsoeneng,ZumaFees,President
+260,South Africa,ZA,23424942,Soweto,1587677,NDGPopUp,HlaudiMotsoeneng,ZumaFees,President,Hawks
+261,South Africa,ZA,23424942,Cape Town,1591691,ZumaFees,SFSA2018,MSLT20,UCTGrad2018,Ernst Middendorp
+262,Saudi Arabia,SA,23424938,Medina,1937801,الشرعيه_تنتصر_وتهزم_الحوثي,الخميس_الونيس,الاتفاق_الوحده,الهلال_21نقطه_بالبلنتيات,غرد_بحبك_لمحمد_بن_سلمان
+263,Saudi Arabia,SA,23424938,Dammam,1939574,شكرا_مجموعتنا_الدعويه,الاتفاق_الوحده,الخميس_الونيس,الهلال_احد,وش_اكثر_شي_تشتريه
+264,Saudi Arabia,SA,23424938,Riyadh,1939753,الشرعيه_تنتصر_وتهزم_الحوثي,الخميس_الونيس,الاتفاق_الوحده,الهلال_21نقطه_بالبلنتيات,غرد_بحبك_لمحمد_بن_سلمان
+265,Saudi Arabia,SA,23424938,Jeddah,1939873,الخميس_الونيس,الشرعيه_تنتصر_وتهزم_الحوثي,الهلال_21نقطه_بالبلنتيات,غرد_بحبك_لمحمد_بن_سلمان,صنعتي_غرفه_الشرقيه5
+266,Saudi Arabia,SA,23424938,Mecca,1939897,الشرعيه_تنتصر_وتهزم_الحوثي,الخميس_الونيس,الاتفاق_الوحده,الهلال_21نقطه_بالبلنتيات,غرد_بحبك_لمحمد_بن_سلمان
+267,United Arab Emirates,AE,23424738,Sharjah,1940119,الضغط العسكري,Yemen,دوري_الخليج_العربي,حاكم_الشارقه,العين_ويلينجتون
+268,United Arab Emirates,AE,23424738,Abu Dhabi,1940330,الضغط العسكري,Yemen,دوري_الخليج_العربي,حاكم_الشارقه,العين_ويلينجتون
+269,United Arab Emirates,AE,23424738,Dubai,1940345,الضغط العسكري,Yemen,دوري_الخليج_العربي,حاكم_الشارقه,العين_ويلينجتون
+270,Israel,IL,23424852,Haifa,1967449,WestBank,Ofra,Givat Asaf,Ramallah,Trump
+271,Israel,IL,23424852,Tel Aviv,1968212,WestBank,Ofra,Givat Asaf,Ramallah,Trump
+272,Israel,IL,23424852,Jerusalem,1968222,WestBank,Ofra,Givat Asaf,Ramallah,Trump
+273,Jordan,JO,23424860,Amman,1968902,قانون العفو العام,اشرف_نعالوه,مش_ساكتين,رام_الله,الوكيل_الاخباري
+274,Russia,RU,23424936,Chelyabinsk,1997422,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+275,Russia,RU,23424936,Khabarovsk,2018708,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+276,Russia,RU,23424936,Krasnodar,2028717,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+277,Russia,RU,23424936,Krasnoyarsk,2029043,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+278,Russia,RU,23424936,Samara,2077746,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+279,Russia,RU,23424936,Voronezh,2108210,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+280,Russia,RU,23424936,Yekaterinburg,2112237,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+281,Russia,RU,23424936,Irkutsk,2121040,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+282,Russia,RU,23424936,Kazan,2121267,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+283,Russia,RU,23424936,Moscow,2122265,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+284,Russia,RU,23424936,Nizhny Novgorod,2122471,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+285,Russia,RU,23424936,Novosibirsk,2122541,Ростов,Новосибирска,Владивосток,Marvel,Чечни
+286,Russia,RU,23424936,Omsk,2122641,в омске,Владивосток,Marvel,Чечни,Бойко
+287,Russia,RU,23424936,Perm,2122814,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+288,Russia,RU,23424936,Rostov-on-Don,2123177,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+289,Russia,RU,23424936,Saint Petersburg,2123260,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+290,Russia,RU,23424936,Ufa,2124045,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+291,Russia,RU,23424936,Vladivostok,2124288,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+292,Russia,RU,23424936,Volgograd,2124298,Владивосток,Marvel,Чечни,Бойко,ItsTheLoveShot
+293,Pakistan,PK,23424922,Karachi,2211096,KhaadiTurns20,SupremeCourt,morethanmilk,NawazSharif,NFO2018
+294,Pakistan,PK,23424922,Lahore,2211177,SupremeCourt,NationalT20Cup,KhawajaSaadRafique,NawazSharif,KhaadiTurns20
+295,Pakistan,PK,23424922,Multan,2211269,PP168,KhaadiTurns20,Shahbaz Sharif,aleemakhan,NawazSharif
+296,Pakistan,PK,23424922,Rawalpindi,2211387,PP168,KhaadiTurns20,Shahbaz Sharif,aleemakhan,NawazSharif
+297,Pakistan,PK,23424922,Faisalabad,2211574,PP168,KhaadiTurns20,Shahbaz Sharif,aleemakhan,NawazSharif
+298,Oman,OM,23424898,Muscat,2268284,شباب_عمان,الخميس_الونيس,كم_شخص_معطيك_بلوك,جيل_البرجر_والايسكريم,التامينات_الاجتماعيه
+299,India,IN,23424848,Nagpur,2282863,INDvNED,SPSTrailer,AraathuAanandhi,Rafale,Anangae
+300,India,IN,23424848,Lucknow,2295377,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+301,India,IN,23424848,Kanpur,2295378,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+302,India,IN,23424848,Patna,2295381,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+303,India,IN,23424848,Ranchi,2295383,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+304,India,IN,23424848,Kolkata,2295386,INDvNED,SPSTrailer,justiceforarindom,Anangae,GlimpesOfFreeEyeCampDay2
+305,India,IN,23424848,Srinagar,2295387,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+306,India,IN,23424848,Amritsar,2295388,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+307,India,IN,23424848,Jaipur,2295401,AssemblyElections2018,INDvNED,SPSTrailer,justiceforarindom,Anangae
+308,India,IN,23424848,Ahmedabad,2295402,INDvNED,SPSTrailer,justiceforarindom,Anangae,GlimpesOfFreeEyeCampDay2
+309,India,IN,23424848,Rajkot,2295404,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+310,India,IN,23424848,Surat,2295405,Rajasthan,Congress,INDvNED,SPSTrailer,JusticeForArindom
+311,India,IN,23424848,Bhopal,2295407,INDvNED,SPSTrailer,justiceforarindom,Anangae,GlimpesOfFreeEyeCampDay2
+312,India,IN,23424848,Indore,2295408,Markets,BusinessNews,Results2018,INDvNED,SPSTrailer
+313,India,IN,23424848,Thane,2295410,INDvNED,SPSTrailer,justiceforarindom,Anangae,GlimpesOfFreeEyeCampDay2
+314,India,IN,23424848,Mumbai,2295411,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+315,India,IN,23424848,Pune,2295412,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+316,India,IN,23424848,Hyderabad,2295414,mrmajnu,HBDVictoryVenkatesh,KamalNath,PadiPadiLecheManasu,INDvNED
+317,India,IN,23424848,Bangalore,2295420,INDvNED,SPSTrailer,JusticeForArindom,Anangae,GlimpesOfFreeEyeCampDay2
+318,India,IN,23424848,Chennai,2295424,INDvNED,SPSTrailer,justiceforarindom,Anangae,GlimpesOfFreeEyeCampDay2
+319,Turkey,TR,23424969,Mersin,2323778,FreeDeepTurkishWeb,Ankara,lngilizDDveFetöİçİçe,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi
+320,Turkey,TR,23424969,Adana,2343678,Allah'tan,FreeDeepTurkishWeb,ErdalEren,Bol Şans,İl Başkanımız Sn
+321,Turkey,TR,23424969,Ankara,2343732,FreeDeepTurkishWeb,Ankara,KüreselGüçTürkiye,ErdalEren,Perşembe
+322,Turkey,TR,23424969,Antalya,2343733,FreeDeepTurkishWeb,Ankara,lngilizDDveFetöİçİçe,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi
+323,Turkey,TR,23424969,Bursa,2343843,FreeDeepTurkishWeb,Ankara,Ersun Yanal,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi
+324,Turkey,TR,23424969,Diyarbakır,2343932,FreeDeepTurkishWeb,Ankara,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi,Tahkim Kurulu
+325,Turkey,TR,23424969,Eskişehir,2343980,FreeDeepTurkishWeb,Ankara,lngilizDDveFetöİçİçe,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi
+326,Turkey,TR,23424969,Gaziantep,2343999,FreeDeepTurkishWeb,Ankara,SONDAKİKA,ErdalEren,ZaferBismillah
+327,Turkey,TR,23424969,Istanbul,2344116,Ankara,gazetesozcu,FreeDeepTurkishWeb,lngilizDDveFetöİçİçe,Moralbette ÇevrimsizBonus
+328,Turkey,TR,23424969,Izmir,2344117,FreeDeepTurkishWeb,Ankara,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi,Tahkim Kurulu
+329,Turkey,TR,23424969,Kayseri,2344174,FreeDeepTurkishWeb,Ankara,lngilizDDveFetöİçİçe,Moralbette ÇevrimsizBonus,Büyükçekmece Adliyesi
+330,Turkey,TR,23424969,Konya,2344210,Galatasaray,FreeDeepTurkishWeb,Ankara,Moralbette ÇevrimsizBonus,lngilizDDveFetöİçİçe
+331,Japan,JP,23424856,Okinawa,2345896,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,黄昏流星群,リーガルV,ヤマトイオリ
+332,Korea,KR,23424868,Daejeon,2345975,이치로,제노스,사마토키,뱀아더,요츠유
+333,New Zealand,NZ,23424916,Auckland,2348079,asbrugbyawards,Theresa May,christmas,Sroubek,HudsonValley
+334,United States,US,23424977,Albuquerque,2352824,GoLobos,nmwx,deathpenalty,RockHall2019,ThursdayThoughts
+335,United States,US,23424977,Atlanta,2357024,Michael Cohen,Super Bowl Experience,Toys for Tots,Ebro,Norfolk Southern
+336,United States,US,23424977,Austin,2357536,Apple,2018In5Words,ATXTraffic,periodistas,CBSAustinWX
+337,United States,US,23424977,Baltimore,2358820,Joe Flacco,Mike Elias,East Baltimore,COP24,Brandon Hyde
+338,United States,US,23424977,Baton Rouge,2359991,Tigers,winterafterdark,Baton Rouge,AGU18,RockHall2019
+339,United States,US,23424977,Birmingham,2364559,WinAsOne,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix
+340,United States,US,23424977,Boston,2367105,Joe Kelly,TheGiftOfSox,wizards,Michael Cohen,The Celtics
+341,United States,US,23424977,Charlotte,2378426,Hornets30,Jeremy Lamb,clttraffic,Kemba Walker,SBD Global
+342,United States,US,23424977,Chicago,2379574,penguins,KISSFMJingleBall,2018In5Words,Michael Cohen,Bryce Harper
+343,United States,US,23424977,Cincinnati,2380358,SeizeTheDEY,Cavs,AGU18,cincytraffic,Trump
+344,United States,US,23424977,Cleveland,2381475,ThursdayThoughts,RockHall2019,Janet Jackson,repTourNetflix,Jessica Starr
+345,United States,US,23424977,Colorado Springs,2383489,FINAHangzhou2018,USHHOF,ColoradoSprings,Per CSPD,Foundry
+346,United States,US,23424977,Columbus,2383660,Rose Bowl,StopTheBans,Senate,LameDuckOH,Blue Jackets
+347,United States,US,23424977,Dallas-Ft. Worth,2388929,Win A Copy,Watch Preview,Second Act,RockHall2019,ThursdayThoughts
+348,United States,US,23424977,Denver,2391279,2018In5Words,Rockies,WednesdayWisdom,Baker Mayfield,China
+349,United States,US,23424977,Detroit,2391585,mileg,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix
+350,United States,US,23424977,El Paso,2397816,informativonl,ElPaso,New Mexico,ThursdayThoughts,RockHall2019
+351,United States,US,23424977,Fresno,2407517,GoDogs,ThursdayThoughts,RockHall2019,Janet Jackson,repTourNetflix
+352,United States,US,23424977,Greensboro,2414469,RockHall2019,ThursdayThoughts,Def Leppard,repTourNetflix,Jessica Starr
+353,United States,US,23424977,Harrisburg,2418046,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Jessica Starr
+354,United States,US,23424977,Honolulu,2423945,hitraffic,hawaii,RockHall2019,ThursdayThoughts,Janet Jackson
+355,United States,US,23424977,Houston,2424766,ForTheCity,Kodak,Fertitta Center,2018In5Words,Charlie Morton
+356,United States,US,23424977,Indianapolis,2427032,Myles Turner,BREAKING,Scotty's Brewhouse,4YourMorning,FOX59Morning
+357,United States,US,23424977,Jackson,2428184,Mississippi,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix
+358,United States,US,23424977,Jacksonville,2428344,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Jessica Starr
+359,United States,US,23424977,Kansas City,2430683,Chargers,Eric Berry,Patrick Mahomes,ThursdayThoughts,RockHall2019
+360,United States,US,23424977,Las Vegas,2436704,ICYMI,Trump,RockHall2019,ThursdayThoughts,Janet Jackson
+361,United States,US,23424977,Long Beach,2441472,NHLDucks,Santa,RockHall2019,ThursdayThoughts,Janet Jackson
+362,United States,US,23424977,Los Angeles,2442047,Raptors,TheMule,IcarusFallsParty,Sesame Street,2018In5Words
+363,United States,US,23424977,Louisville,2442327,Reds,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix
+364,United States,US,23424977,Memphis,2449323,GrindCity,Blazers,Memphis,Jesus,RockHall2019
+365,United States,US,23424977,Mesa,2449808,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Jessica Starr
+366,United States,US,23424977,Miami,2450022,ThursdayThoughts,RockHall2019,Janet Jackson,repTourNetflix,Jessica Starr
+367,United States,US,23424977,Milwaukee,2451822,liveatdaybreak,wiwx,RockHall2019,ThursdayThoughts,Janet Jackson
+368,United States,US,23424977,Minneapolis,2452078,RockHall2019,ThursdayThoughts,Def Leppard,repTourNetflix,Jessica Starr
+369,United States,US,23424977,Nashville,2457170,Nashville2018,U.S. Hockey Hall of Fame,The Mandalorian,David Poile,Cyntoia Brown
+370,United States,US,23424977,New Haven,2458410,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Jessica Starr
+371,United States,US,23424977,New Orleans,2458833,anthony davis,Pels,Pelicans,UFCMilwaukee,Thunder
+372,United States,US,23424977,New York,2459115,ThursdayThoughts,RockHall2019,Janet Jackson,repTourNetflix,Jessica Starr
+373,United States,US,23424977,Norfolk,2460389,RockHall2019,ThursdayThoughts,Def Leppard,repTourNetflix,Jessica Starr
+374,United States,US,23424977,Oklahoma City,2464592,Pelicans,Thunder,anthony davis,TheBridgeWrites,okwx
+375,United States,US,23424977,Omaha,2465512,Trump,Omaha,Scotty Payne,RockHall2019,ThursdayThoughts
+376,United States,US,23424977,Orlando,2466256,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+377,United States,US,23424977,Philadelphia,2471217,Wawa,Nets,Flyers,joel embiid,Michael Cohen
+378,United States,US,23424977,Phoenix,2471390,Phoenix City Council,Suns,azwx,FantasyFootball,Jesus
+379,United States,US,23424977,Pittsburgh,2473224,Blackhawks,WPXI,DKPS,Pens,KDKAradioTraffic
+380,United States,US,23424977,Portland,2475687,Blazers,2018In5Words,Michael Cohen,orleg,KubeCon
+381,United States,US,23424977,Providence,2477058,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,ImAlwaysReadyFor
+382,United States,US,23424977,Raleigh,2478307,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+383,United States,US,23424977,Richmond,2480894,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+384,United States,US,23424977,Sacramento,2486340,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+385,United States,US,23424977,St. Louis,2486982,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+386,United States,US,23424977,Salt Lake City,2487610,Jazz,Donovan Mitchell,TeamIsEverything,Utah,KSLtv
+387,United States,US,23424977,San Antonio,2487796,ARRivedSeries,hiphop,UTSA,Listen Anywhere Now,Cacoteo Radio ESCUCHA SIN
+388,United States,US,23424977,San Diego,2487889,andy green,2018In5Words,Michael Cohen,theuncommonthread,RamirezHart2
+389,United States,US,23424977,San Francisco,2487956,SalesforceTour,OneTeam,2018In5Words,Michael Cohen,KubeCon
+390,United States,US,23424977,San Jose,2488042,kubecon,Christmas,opensource,Trump,Cloud Forest Retreats
+391,United States,US,23424977,Seattle,2490383,2018In5Words,EDMular,Mychal Kendricks,VIDEOS,MusicVideo
+392,United States,US,23424977,Tallahassee,2503713,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+393,United States,US,23424977,Tampa,2503863,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,Joe Kelly
+394,United States,US,23424977,Tucson,2508428,AGU18,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix
+395,United States,US,23424977,Virginia Beach,2512636,Virginia Beach,Trump,RockHall2019,ThursdayThoughts,Janet Jackson
+396,United States,US,23424977,Washington,2514815,RockHall2019,ThursdayThoughts,Janet Jackson,repTourNetflix,ImAlwaysReadyFor
+397,Japan,JP,23424856,Osaka,15015370,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,流れ星,黄昏流星群,zombielandsaga
+398,Japan,JP,23424856,Kyoto,15015372,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,流れ星,黄昏流星群,zombielandsaga
+399,India,IN,23424848,Delhi,20070458,INDvNED,JusticeForArindom,SPSTrailer,RafaleDeal,GullyBoy
+400,Malaysia,MY,23424901,Petaling,56013632,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+401,Malaysia,MY,23424901,Hulu Langat,56013645,ItsTheLoveShot,UMNO,MAMAVOTE,2018mama,Tun M
+402,Saudi Arabia,SA,23424938,Ahsa,56120136,الشرعيه_تنتصر_وتهزم_الحوثي,هات_كلمه_جنوبيه,الاتفاق_الوحده,الخميس_الونيس,غرد_بحبك_لمحمد_بن_سلمان
+403,Japan,JP,23424856,Okayama,90036018,自分のPixivブクマTOP3をあげる,ゆうしゃはゲームの思い出をつぶやいた,流れ星,黄昏流星群,zombielandsaga
